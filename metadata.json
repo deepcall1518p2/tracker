@@ -1,0 +1,6 @@
+{
+  "name": "My 43-Day Board Preparation Tracker",
+  "description": "Avinash's 43-Day CBSE Board Preparation Tracker (4 Oct – 15 Nov 2026) with sequential day unlocking, subject-wise progress, syllabus checklist, daily notes, error logs, and JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
